@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1513871879 source:c:\users\kimo\downloads\new folder\dots and lines\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	<windows.h>
+	<string.h>
+

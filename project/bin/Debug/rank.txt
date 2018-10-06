@@ -1,0 +1,10 @@
+kimo : 4
+player : 4
+player : 0
+player : 0
+player : 0
+player : 0
+player : 0
+player : 0
+player : 0
+player : 0
